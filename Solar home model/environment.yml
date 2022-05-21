@@ -1,0 +1,10 @@
+name: model-home
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab=3
+  - bokeh
+  - pandas
+  - ipywidgets
