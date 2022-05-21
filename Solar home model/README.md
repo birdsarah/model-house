@@ -1,3 +1,4 @@
 `conda env create`
 `conda activate model-home`
-`jupter lab`
+`bokeh serve interact` 
+`bokeh server interact --dev 
